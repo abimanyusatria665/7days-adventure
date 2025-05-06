@@ -20,6 +20,7 @@
 .pointer {
   cursor: pointer;
 }
+
 @media (max-width: 576px) {
   .car-head {
     margin-bottom: 20px;
@@ -36,6 +37,10 @@
   }
   .our-partner img {
     width: 300px;
+  }
+
+  .navbar-brand img {
+    width: 200px;
   }
 }
 @media (max-width: 1399.98px) {
